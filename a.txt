@@ -1,0 +1,6 @@
+x = 90;  # User input
+y = 876; # User input
+calculate x+98*90; # User input
+print x; # User input
+print y+654.5; # User input
+exit; # User input
