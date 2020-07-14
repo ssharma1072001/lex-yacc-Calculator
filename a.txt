@@ -3,4 +3,10 @@ y = 876; # User input
 calculate x+98*90; # User input
 print x; # User input
 print y+654.5; # User input
+print sin(0);
+print tan(x);
+x = 2;
+y = 3;
+a = pow(2,3);
+print a;
 exit; # User input
